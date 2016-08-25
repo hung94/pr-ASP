@@ -27,10 +27,7 @@
         <header>
             <h3>Email:</h3>
         </header>
-        <p>
-            <span class="label">Support:</span>
-            <span><a href="mailto:Support@example.com">cskh@didongthongminh.vn</a></span>
-        </p>
+        
         <p>
             <span class="label">Marketing:</span>
             <span><a href="mailto:Marketing@example.com">Marketing@didongthongminh.vn</a></span>
