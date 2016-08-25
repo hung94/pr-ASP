@@ -3,7 +3,6 @@
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
         <div class="content-wrapper">
-            <img src="http://cdn.fptshop.com.vn/Uploads/Originals/2016/8/7/636061262617186804_H1-800x300-3.jpg" style="width: 960px" />
         </div>
     </section>
 </asp:Content>
